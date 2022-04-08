@@ -1,6 +1,6 @@
 <template>
 	<view>
-		auth
+		goods
 	</view>
 </template>
 

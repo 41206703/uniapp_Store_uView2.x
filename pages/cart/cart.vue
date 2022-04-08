@@ -1,6 +1,6 @@
 <template>
 	<view>
-		auth
+		cart
 	</view>
 </template>
 
